@@ -1,2 +1,2 @@
 # tqdocs
-TopicQuests documentation
+TopicQuests documentation is in the Wiki.
